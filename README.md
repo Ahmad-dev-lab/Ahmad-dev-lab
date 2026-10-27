@@ -77,11 +77,6 @@ A fashion and home-lifestyle e-commerce business project focused on online shopp
 ### 🧰 sim-pro
 A JavaScript project in my GitHub repositories. Explore the source code and repository documentation to learn more about its functionality.
 
-### 📱 Instagram
-A JavaScript project in my GitHub repositories. Visit the repository to explore its implementation and available features.
-
-### 💰 Prize Bond Checker
-A project listed in my GitHub contribution activity. Explore my repositories for the source code and project details.
 
 ### 🧪 Other Projects & Experiments
 I also explore web development, automation, integrations, and practical software solutions. Check my repositories for additional projects and experiments.
